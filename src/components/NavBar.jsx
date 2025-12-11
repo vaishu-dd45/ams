@@ -4,7 +4,7 @@ import { Search, ShoppingCart, MapPin } from "lucide-react";
 import { Menu, X } from "lucide-react";
 import Logo from "../assets/Logo.png";
 import "../styles/NavBar.css";
-import LoginPopup from "../components/LoginPopUp";
+import LoginPopup from "../components/LoginPopup";
 import NavLocation from "./NavLocation";
 
 const NavBar = () => {

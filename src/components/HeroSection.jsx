@@ -15,7 +15,7 @@ const HeroSection = () => {
       {/* Main Text Content */}
       <div className="hero-text">
         <h1>
-          Fresh Cuts, Rich Taste –<br></br> <em>Mutton</em> at Its Best ....
+          Fresh Cuts........ –<br></br> <em>Mutton</em> at Its Best ....
         </h1>
         <ToggleText />
       </div>
